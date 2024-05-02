@@ -1,5 +1,5 @@
 # restAPI
-run npm i to download modules and depedencies
+run npm i to download modules and dependencies
 
 then run node app.js to start server
 
