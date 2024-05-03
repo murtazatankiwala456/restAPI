@@ -13,4 +13,6 @@ https://lunar-trinity-193974.postman.co/workspace/Murtaza~d0542433-d023-438b-b2f
 
 use local mongodb database (Mongodb compass).
 
+*create some dummy data in it using api documentation and then run api in postman
+
 This will create local database in your system and then you are able to retreive data from it.
